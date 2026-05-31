@@ -139,7 +139,7 @@ Focus Areas:
 <div align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+<img src="https://www.linkedin.com/in/aditya-gundure-b5b969259/">
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
