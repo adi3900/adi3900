@@ -60,95 +60,188 @@ Mission: "Secure Systems. Detect Threats. Build Intelligence."
 
 <br><br>
 
-# <div align="center">⚔️ CYBER SECURITY DOMAINS</div>
+# <div align="center">⚔️ CYBER SECURITY DOMAINS ⚔️</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=Initializing+Cyber+Security+Domains...;Loading+SOC+Operations...;Deploying+Cloud+Defense+Systems...;Threat+Hunting+Activated...;AI+Powered+Security+Enabled..." />
+
+</div>
 
 <br><br>
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216656978-ef584e23-480a-4d1c-8d27-984b7b547c24.gif" width="100%">
+
+</div>
+
+<br><br><br>
+
 <table align="center">
+
 <tr>
 
-<td align="center" width="300">
+<td align="center" width="320">
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="120">
 
 # 🔵 SOC ANALYST
 
-### ⚡ Skills
+<img src="https://img.shields.io/badge/Monitoring-24x7-00ff41?style=for-the-badge">
 
-📌 SIEM Monitoring
-📌 Log Analysis
-📌 Incident Response
-📌 Threat Detection
-📌 Splunk / QRadar
+<br><br>
+
+🛡️ SIEM Monitoring
+📊 Log Analysis
+🚨 Incident Response
+🎯 Threat Detection
+🔍 Security Investigation
+📈 Alert Correlation
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=linux,bash,python" />
 
 </td>
 
-<td width="80"></td>
+<td width="50"></td>
 
-<td align="center" width="300">
+<td align="center" width="320">
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120">
 
 # ☁️ CLOUD SECURITY
 
-### ⚡ Skills
+<img src="https://img.shields.io/badge/Cloud-Secured-00c3ff?style=for-the-badge">
 
-📌 AWS Security
-📌 Azure Security
-📌 Prisma Cloud
-📌 Wiz Security
-📌 CSPM & IAM
+<br><br>
+
+☁️ AWS Security
+🔐 Azure Security
+🌍 GCP Security
+🛡️ IAM & CSPM
+⚡ Prisma Cloud
+🚀 Wiz Security
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes" />
 
 </td>
 
 </tr>
+
 </table>
 
 <br><br><br>
 
 <table align="center">
+
 <tr>
 
-<td align="center" width="300">
+<td align="center" width="320">
 
 <img src="https://media.giphy.com/media/3o7TKsQ8UQ4A6f1xM4/giphy.gif" width="120">
 
 # 🔥 THREAT HUNTING
 
-### ⚡ Skills
+<img src="https://img.shields.io/badge/Hunting-Threats-red?style=for-the-badge">
 
-📌 MITRE ATT&CK
-📌 IOC Analysis
-📌 Malware Investigation
-📌 Threat Intelligence
-📌 EDR / XDR
+<br><br>
+
+🎯 MITRE ATT&CK
+🕵️ IOC Analysis
+🦠 Malware Analysis
+📡 Threat Intelligence
+⚔️ EDR/XDR
+🔍 Behavioral Analytics
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,linux" />
 
 </td>
 
-<td width="80"></td>
+<td width="50"></td>
 
-<td align="center" width="300">
+<td align="center" width="320">
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120">
 
 # 🛠️ DEVSECOPS
 
-### ⚡ Skills
+<img src="https://img.shields.io/badge/Pipeline-Secured-blue?style=for-the-badge">
 
-📌 Docker Security
-📌 Kubernetes Security
-📌 CI/CD Security
-📌 IaC Security
-📌 Secure Pipelines
+<br><br>
+
+🐳 Docker Security
+☸️ Kubernetes Security
+⚡ CI/CD Security
+📦 IaC Security
+🔐 Secure Deployment
+🚀 DevSecOps Automation
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux" />
 
 </td>
 
 </tr>
+
 </table>
 
 <br><br><br>
 
----
+<div align="center">
+
+# 🤖 AI + CYBER SECURITY
+
+<br>
+
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="220">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI-Threat%20Detection-8A2BE2?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Machine-Learning-ff00ff?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Security-Automation-00ff41?style=for-the-badge">
+
+<br><br>
+
+🧠 AI Threat Detection
+⚡ Security Automation
+📊 Anomaly Detection
+🤖 ML-Powered SOC
+🔍 Intelligent Threat Analysis
+
+</div>
+
+<br><br><br>
+
+<div align="center">
+
+# 🌐 CYBER SECURITY ECOSYSTEM
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,kubernetes,aws,azure,mysql,git,github,vscode" />
+
+</div>
+
+<br><br><br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00ff41,50:0d1117,100:000000&text=SECURITY%20DOMAINS%20LOADED&fontColor=ffffff&fontSize=38&animation=twinkling&fontAlignY=40"/>
+
+</div>
+
 
 <br><br>
 # <div align="center">💻 TECH STACK & CYBER ARSENAL ⚡</div>
@@ -298,44 +391,6 @@ Mission: "Secure Systems. Detect Threats. Build Intelligence."
 <img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44fc-8c4e-bb2d6b212f91.gif" width="700">
 
 </div>
-
-<br><br><br>
-
----
-
-<br><br>
-
-
-
-
-<br><br>
-
-# <div align="center">🧠 AI + CYBER SECURITY</div>
-
-<br><br>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300">
-
-</div>
-
-<br><br>
-
-```python id="oklxmi"
-class SecurityEngineer:
-
-    def __init__(self):
-        self.name = "Aditya Gundure"
-        self.role = "Cyber Security Engineer"
-
-    def defend(self):
-        return "Threat Neutralized Successfully 🛡️"
-
-me = SecurityEngineer()
-
-print(me.defend())
-```
 
 <br><br><br>
 
