@@ -646,9 +646,11 @@ Mission: "Secure Systems. Detect Threats. Build Intelligence."
 
     
 
-<a href="https://linkedin.com/in/Aditya">
-<img src="https://www.linkedin.com/in/aditya-gundure-b5b969259/">
+<a href="https://www.linkedin.com/in/aditya-gundure-b5b969259/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Gundure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+
 
     
 
